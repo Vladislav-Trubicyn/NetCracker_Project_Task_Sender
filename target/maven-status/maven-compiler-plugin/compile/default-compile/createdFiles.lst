@@ -1,0 +1,6 @@
+com\dreamsearcher\sender\SenderApplication.class
+com\dreamsearcher\sender\model\Notification$NotificationBuilder.class
+com\dreamsearcher\sender\error\EmailSendTroubleException.class
+com\dreamsearcher\sender\controller\SenderController.class
+com\dreamsearcher\sender\model\Notification.class
+com\dreamsearcher\sender\service\SenderService.class
